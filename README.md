@@ -1,1 +1,1 @@
-Holiday_Card_Exitor
+Holiday_Card_Editor
